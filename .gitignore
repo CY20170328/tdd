@@ -1,0 +1,6 @@
+db.sqlite3
+geckodriver.log
+tdd.py
+aws.py
+__pycache__
+*.pyc
